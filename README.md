@@ -72,7 +72,7 @@
         </ul></ul>
        <b>&nbsp;&nbsp;&nbsp;&nbsp;<u>Используемые технологии:</u></b>
         <ul><ul>
-         <li>Python, Aiogram, SQLite, Docker, Flower.</li>
+         <li>Python, Aiogram, SQLite, Docker, API Telegram</li>
         </ul></ul>&nbsp;
      </details>
       </ul>
