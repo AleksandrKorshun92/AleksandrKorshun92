@@ -24,7 +24,6 @@
 <a href="https://ru.wikipedia.org/wiki/CI/CD" title="CI/CD" target="_blank"><img align="center" src="images/cicd.png" width="36" alt="CI/CD" hspace="3" /></a>
 <a href="https://ubuntu.com/" title="Ubuntu OS" target="_blank"><img align="center" src="images/ubuntu.svg" width="38" height="38" alt="Ubuntu OS" hspace="3" /></a>
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm" target="_blank"><img align="center" src="images/pycharm.svg" width="34" height="34" alt="PyCharm" hspace="3" /></a>
-<a href="https://git-scm.com/" title="Postman" target="_blank"><img align="center" src="images/postman.svg" width="35" height="35" alt="Postman" hspace="3" /></a>
 
 
 
